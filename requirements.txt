@@ -1,4 +1,3 @@
 pydantic >= 2.4.0
 pint
 strenum
-uuid
